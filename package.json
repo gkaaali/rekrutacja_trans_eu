@@ -1,0 +1,14 @@
+{
+  "name": "rekrutacja_trans_eu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G.K.",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  }
+}
